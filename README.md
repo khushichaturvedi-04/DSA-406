@@ -74,7 +74,3 @@ Each report was originally authored as an R Markdown or Quarto document. To repr
 2. Install the required packages: `tidyverse`, `skimr`, `summarytools`, `psych`, `car`, and `knitr`.
 3. Load the corresponding dataset (the YT-BB dataset for Project 1 and 2, or the NHL 2022-2023 season statistics for Assignment 3).
 4. Knit or render the R Markdown or Quarto source file to reproduce the full report, including all figures, tables, and statistical output.
-
-## Author
-
-Khushi Chaturvedi, North Carolina State University.
